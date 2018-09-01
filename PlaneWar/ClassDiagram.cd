@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="74.75" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0043_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PlaneWar.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlaneWar.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAddhp">
+    <Position X="67.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIIAAAAAAAgAAAAAAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Addhp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBack">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAgCAAAAAAAAAAAAAAAAAAQAAAAAgAAA=</HashCode>
+      <FileName>Back.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBomb0">
+    <Position X="47" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAIAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAABAAAAA=</HashCode>
+      <FileName>Bomb0.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBomb1">
+    <Position X="53.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEgIAAAAAAAAgAAAAAAAAAAAAAAAAAAAQgAABAAAAA=</HashCode>
+      <FileName>Bomb1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBoss0">
+    <Position X="40.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIIJAAAAAAAgACAABAAAAAAAAAAAAAAQAAAgBAgAA=</HashCode>
+      <FileName>Boss0.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBoss1">
+    <Position X="42.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEIJAAAAAAAgACAABAAAAAAAAAAAAAAQAAAgBAgAA=</HashCode>
+      <FileName>Boss1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBoss2">
+    <Position X="24.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECIJAAAAAAAgACAABAAAAAAAAAAAAAAQAAAgBAgAA=</HashCode>
+      <FileName>Boss2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBoss3">
+    <Position X="29" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBIJAAAAAAAgACAABAAAAAAAAAAAAAAQAAAgBAgAA=</HashCode>
+      <FileName>Boss3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBoss4">
+    <Position X="35.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAIJAAAAAAAgACAABAAAAAAAAAAAAAAQAAAgBAgAA=</HashCode>
+      <FileName>Boss4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnBomb0">
+    <Position X="49.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAIAAAAAAAAgAAAAAAgAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>EnBomb0.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnBomb">
+    <Position X="56" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAIAAAAAAAAgAAAAAAAACAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>EnBomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnBomb1">
+    <Position X="58.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAIAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAABAAAAA=</HashCode>
+      <FileName>EnBomb1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemy1">
+    <Position X="44.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAgAEAABAAAAAAAAAAAgAAQAAAABAAAA=</HashCode>
+      <FileName>Enemy1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemy2">
+    <Position X="26.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAACAgAAAABAAAAAAAAAAAQAAQAAAABAAAA=</HashCode>
+      <FileName>Enemy2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemy3">
+    <Position X="31.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIBAAAAAAAgAAAABAAAAAAAAAAAIAAQAAAABAAAA=</HashCode>
+      <FileName>Enemy3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemy4">
+    <Position X="38" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAgAAAABAAAAAAIAAAAABAQAAAABAAAA=</HashCode>
+      <FileName>Enemy4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExplosion">
+    <Position X="13" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAGAIAAAABAAAgAAAAAAAAAAAAAAAAAAAQAQBAAAAAA=</HashCode>
+      <FileName>Explosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameBegin">
+    <Position X="22.25" Y="5.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CGameBegin::Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameBegin.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAIgAAAAAAAgCBAABAAAAAAgAhAAAAAQAAAAACAAA=</HashCode>
+      <FileName>GameBegin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameBomb">
+    <Position X="52.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAgAAgAAAAAEAAAEAAAAAAAAgQAAAAIAAAA=</HashCode>
+      <FileName>GameBomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBullet">
+    <Position X="62.75" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAIAAAEAAgABAQAAAAAAAAAAAAAAAQAAAgAApAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCounter">
+    <Position X="1.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAgwAAAAAAAABAAAAAQAAAEQAgAAAAAAA=</HashCode>
+      <FileName>Counter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemy0">
+    <Position X="33.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAIAAAAAAAAgAAAABAAAAAAAAAABAAAQAAAABAAAA=</HashCode>
+      <FileName>Enemy0.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFactory" Collapsed="true">
+    <Position X="76.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameEnd">
+    <Position X="15.5" Y="5.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CGameEnd::__unnamed_enum_0032_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameEnd.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAIAAIAAEAAkCAAAgAAAAAAAAAABAAAQgAAAABAAA=</HashCode>
+      <FileName>GameEnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameEnemy">
+    <Position X="34.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAIAAAgAAAABAAAAAAABEQACBQQoAAABABAA=</HashCode>
+      <FileName>GameEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameObject">
+    <Position X="37" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAgAAAAAAAAAAAAIAAAAAAQAAgAAAAEA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameProp">
+    <Position X="67.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAIAAAgAAAAAAAAACgAAAAAAAAQIAAAAAgAA=</HashCode>
+      <FileName>GameProp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChangeBomb">
+    <Position X="65.25" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>ChangeBomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="78.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAACAAAiAAAgAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyPlane">
+    <Position X="10.75" Y="5.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CMyPlane::Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyPlane.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="CMyPlane::Skill" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyPlane.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEkAIBN0AAAQAgAKAAhIAAADCQAAQgQCQQEAA7hsBYQ=</HashCode>
+      <FileName>MyPlane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPause">
+    <Position X="17.75" Y="5.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CPause::__unnamed_enum_0040_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Pause.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAKAgAAAEgAgCAAAAAAAAAAgAAAAAABQAAAAAAAAA=</HashCode>
+      <FileName>Pause.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPeerSocket" Collapsed="true">
+    <Position X="74.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAKAAQAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>PeerSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneWarApp" Collapsed="true">
+    <Position X="76.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAQAAAABAAAAAAA=</HashCode>
+      <FileName>PlaneWar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneWarDoc" Collapsed="true">
+    <Position X="78.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAACAAAgIAgASggAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlaneWarDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneWarView" Collapsed="true">
+    <Position X="74.75" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CPlaneWarView::Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PlaneWarView.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="CPlaneWarView::GameProcess" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PlaneWarView.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="CPlaneWarView::GameType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PlaneWarView.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="CPlaneWarView::Net" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PlaneWarView.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EXChJgMBQEQAsggBPoRB4AIBg4EARUAQEQ4gBIAQXgU=</HashCode>
+      <FileName>PlaneWarView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CQBomb">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAwAEAAAAAAAAAAAAAAAAASABAAAAAAA=</HashCode>
+      <FileName>QBomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRank">
+    <Position X="20" Y="5.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CRank::__unnamed_enum_004c_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Rank.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAgCAAAgAAAAAAAAAAABAAQgAgAAAEAA=</HashCode>
+      <FileName>Rank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CServerSocket" Collapsed="true">
+    <Position X="76.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAEAAAAAAAAAAAAAAAAAAIAEIAAAAAAAAAA=</HashCode>
+      <FileName>ServerSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNumber">
+    <Position X="60.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECIAAAAAAAggAAAAAAAUAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Number.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CText">
+    <Position X="72.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAAAAAAAAgAAAIAAAAAAAAAAAIAAAAAAAAAABAA=</HashCode>
+      <FileName>Text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTimer">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAIgAAAAEAAgAAAAACAAAAAAAAAAAAAQAAAAAABAA=</HashCode>
+      <FileName>Timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUpdate">
+    <Position X="70" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAgAAAAAAQAAAABAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Update.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserSocket" Collapsed="true">
+    <Position X="78.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UserSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWingman">
+    <Position X="51.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAhAAAAAAAAAAAAAAAAAAAQABAAAAAAA=</HashCode>
+      <FileName>Wingman.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Score" Collapsed="true">
+    <Position X="74.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAACAAAAgAAAAAAA=</HashCode>
+      <FileName>Rank.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
